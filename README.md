@@ -11,7 +11,7 @@
 | 03.01 | Justo Martin-Albo (Harvard)                        | TBD                                                        |
 | 03.08 | Hsin-Yu Chen (Harvard)                             | TBD                                                        |
 | 03.15 | -                                                  | SnowPAC                                                    |
-| 03.22 | Albert de Roeck (CERN)                             | TBD                                                           |
+| 03.22 | Albert de Roeck (CERN)                             | TBD                                                        |
 | 03.29 | Sally Shaw (UCSB)                                  | TBD                                                        |
 | 04.05 |                                                    |                                                            |
 | 04.12 |                                                    |                                                            |
@@ -28,6 +28,6 @@
 | 11.01 |                                                    |                                                            |
 | 11.08 |                                                    |                                                            |
 | 11.15 |                                                    |                                                            |
-| 11.22 |                                                    |                                                            |
+| 11.22 | -                                                  | Thanksgiving                                               |
 | 11.29 |                                                    |                                                            |
 | 12.06 |                                                    |                                                            |
