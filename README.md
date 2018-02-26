@@ -8,7 +8,7 @@
 |-------|----------------------------------------------------|----------------------------------------------------------- | 
 | 02.15 | Sam McDermott (FNAL)                               | Is Self-Interacting Dark Matter Undergoing Dark Fusion?    |
 | 02.22 | -                                                  | Midterm break                                              |
-| 03.01 | Justo Martin-Albo (Harvard)                        | TBD                                                        |
+| 03.01 | Justo Martin-Albo (Harvard)                        | The Search for Neutrinoless Double Beta Decay              |
 | 03.08 | Hsin-Yu Chen (Harvard)                             | TBD                                                        |
 | 03.15 | -                                                  | SnowPAC                                                    |
 | 03.22 | Albert de Roeck (CERN)                             | TBD                                                        |
