@@ -20,12 +20,12 @@
 | 09.06 |                                                    |                                                            |
 | 09.13 |                                                    |                                                            |
 | 09.20 |                                                    |                                                            |
-| 09.27 |                                                    |                                                            |
+| 09.27 | Matthew Szydagis (University at Albany)            | TBD                                                        |
 | 10.04 |                                                    |                                                            |
 | 10.11 |                                                    |                                                            |
 | 10.18 |                                                    |                                                            |
 | 10.25 |                                                    |                                                            |
-| 11.01 |                                                    |                                                            |
+| 11.01 | Scott Hertel (UMass/Amherst)                       | TBD                                                        |
 | 11.08 |                                                    |                                                            |
 | 11.15 |                                                    |                                                            |
 | 11.22 | -                                                  | Thanksgiving                                               |
