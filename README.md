@@ -17,7 +17,7 @@
 | 04.12 |                                                    |                                                            |
 | 04.19 | -                                                  | LZ collaboration week                                      |
 | 08.30 |                                                    |                                                            |
-| 09.06 |                                                    |                                                            |
+| 09.06 | Philipp Roloff (CERN)                              | TBD                                                        |
 | 09.13 |                                                    |                                                            |
 | 09.20 |                                                    |                                                            |
 | 09.27 | Matthew Szydagis (University at Albany)            | TBD                                                        |
