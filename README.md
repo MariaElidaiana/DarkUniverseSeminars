@@ -28,6 +28,8 @@
 | 11.01 | Scott Hertel (UMass/Amherst)                       | TBA                                                        |
 | 11.08 | Minfang Yeh (BNL)                                  |                                                            |
 | 11.15 | Felix Kling (UC Irvine)                            | TBA                                                        |
-| 11.22 | ---                                                | Thanksgiving                                               |
+| 11.22 | ---                                                | Thanksgiving                                               |
 | 11.29 |                                                    |                                                            |
 | 12.06 | ---                                                | DES collaboration meeting                                  |
+
+
