@@ -16,18 +16,18 @@
 | 04.05 |                                                    |                                                            |
 | 04.12 |                                                    |                                                            |
 | 04.19 | -                                                  | LZ collaboration week                                      |
-| 08.30 |                                                    |                                                            |
-| 09.06 | Philipp Roloff (CERN)                              | TBD                                                        |
+| 08.30 | Dark Universe Group                                | Dark Universe Group Symposium                              |
+| 09.06 | Philipp Roloff (CERN)                              | TBA                                                        |
 | 09.13 |                                                    |                                                            |
 | 09.20 |                                                    |                                                            |
-| 09.27 | Matthew Szydagis (University at Albany)            | TBD                                                        |
+| 09.27 | Matthew Szydagis (University at Albany)            | TBA                                                        |
 | 10.04 |                                                    |                                                            |
-| 10.11 |                                                    |                                                            |
+| 10.11 | Tom McClintock (BNL)                               | TBA                                                        |
 | 10.18 |                                                    |                                                            |
 | 10.25 |                                                    |                                                            |
-| 11.01 | Scott Hertel (UMass/Amherst)                       | TBD                                                        |
-| 11.08 |                                                    |                                                            |
-| 11.15 |                                                    |                                                            |
-| 11.22 | -                                                  | Thanksgiving                                               |
+| 11.01 | Scott Hertel (UMass/Amherst)                       | TBA                                                        |
+| 11.08 | Minfang Yeh (BNL)                                  |                                                            |
+| 11.15 | Felix Kling (UC Irvine)                            | TBA                                                        |
+| 11.22 | -                                                  | Thanksgiving                                               |
 | 11.29 |                                                    |                                                            |
-| 12.06 |                                                    |                                                            |
+| 12.06 | -                                                  | DES collaboration meeting                                  |
