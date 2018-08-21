@@ -30,13 +30,14 @@
 | 02.15 | Sam McDermott (FNAL)                               | Is Self-Interacting Dark Matter Undergoing Dark Fusion?    |
 | 02.22 | ---                                                | Midterm break                                              |
 | 03.01 | Justo Martin-Albo (Harvard)                        | The Search for Neutrinoless Double Beta Decay              |
-| 03.08 | Hsin-Yu Chen (Harvard)                             | TBD                                                        |
+| 03.08 | Hsin-Yu Chen (Harvard)                             | Here comes the light--GW170817 and gravitational-wave precision cosmology |
 | 03.15 | ---                                                | SnowPAC                                                    |
-| 03.22 | Albert de Roeck (CERN)                             | TBD                                                        |
-| 03.29 | Sally Shaw (UCSB)                                  | TBD                                                        |
+| 03.22 | Albert de Roeck (CERN)                             | Searches or long-lived particles at the Large Hadron Collider |
+| 03.29 | Sally Shaw (UCSB)                                  | FInal Results of the LUX Direct Dark Matter Search         |
 | 04.05 |                                                    |                                                            |
-| 04.12 |                                                    |                                                            |
+| 04.12 | Albion Lawrence (Brandeis)                         | Effetive Field Theory for Large Field Inflation            |
 | 04.19 | ---                                                | LZ collaboration week                                      |
+| 04.25 | Aran Garcia-Bellido (Rochester)                    | Top Gear at LHC                                            |
 
 
 
