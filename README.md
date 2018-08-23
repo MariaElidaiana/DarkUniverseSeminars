@@ -12,7 +12,7 @@
 | 09.13 |                                                    |                                                            |
 | 09.20 | ---                                                | _Marcelle & Bjoern travel_                                 |
 | 09.27 | Matthew Szydagis (University at Albany)            | TBA                                                        |
-| 10.04 |                                                    |                                                            |
+| 10.03&#42; | Ian dell'Antonio (Brown University)           | TBA                                                        |
 | 10.11 | Tom McClintock (BNL)                               | TBA                                                        |
 | 10.18 |                                                    |                                                            |
 | 10.25 |                                                    |                                                            |
@@ -22,6 +22,10 @@
 | 11.22 | ---                                                | _Thanksgiving_                                             |
 | 11.29 |                                                    |                                                            |
 | 12.06 | ---                                                | _DES collaboration meeting_                                |
+
+
+&#42;In a different day, Wednesday. 
+
 
 ## Spring term
 
