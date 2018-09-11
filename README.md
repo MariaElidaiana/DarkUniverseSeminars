@@ -7,7 +7,7 @@
 
 | Date  | Speaker                                            | Title                                                      |
 |-------|:--------------------------------------------------:|----------------------------------------------------------- | 
-| 08.30 | ---                     |---                             |
+| 08.30 | ---                     |No semina                 |
 | 09.06 | Philipp Roloff (CERN)                              | Future accelarators and doing physics with them            |
 | 09.13 | Lisa Barsotti                                      | The LIGO instruments towards the next Observing Run and beyond |
 | 09.20 | ---                                                | _Marcelle & Bjoern travel_                                 |
