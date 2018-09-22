@@ -16,11 +16,11 @@
 | 10.11 | Tom McClintock (BNL)                               | TBA                                                        |
 | 10.18 |                                                    |                                                            |
 | 10.25 | Antonella Palmese                                  | TBA                                                        |
-| 11.01 | Scott Hertel (UMass/Amherst)                       | TBA                                                        |
+| 11.01 |                                                    |                                                            |
 | 11.08 | Minfang Yeh (BNL)                                  |                                                            |
 | 11.15 | Felix Kling (UC Irvine)                            | TBA                                                        |
 | 11.22 | ---                                                | _Thanksgiving_                                             |
-| 11.29 |                                                    |                                                            |
+| 11.29 | Scott Hertel (UMass/Amherst)                       | TBA                                                        |
 | 12.06 | ---                                                | _DES collaboration meeting_                                |
 
 
