@@ -11,7 +11,7 @@
 | 09.06 | Philipp Roloff (CERN)                              | Future accelarators and doing physics with them            |
 | 09.13 | Lisa Barsotti                                      | The LIGO instruments towards the next Observing Run and beyond |
 | 09.20 | ---                                                | _Marcelle & Bjoern travel_                                 |
-| 09.27 | Matthew Szydagis (University at Albany)            | TBA                                                        |
+| 09.27 | Matthew Szydagis (University at Albany)            | The Snowball Chamber: neutron-induced nucleaction in supercooled water |
 | 10.03&#42; | Ian dell'Antonio (Brown University)           | TBA                                                        |
 | 10.11 | Tom McClintock (BNL)                               | TBA                                                        |
 | 10.18 |                                                    |                                                            |
