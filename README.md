@@ -15,9 +15,9 @@
 | 10.03&#42; | Ian dell'Antonio (Brown University)           | Preparing for Dark Energy measurements with LSST           |
 | 10.11 | Tom McClintock (BNL)                               | TBA                                                        |
 | 10.18 |                                                    |                                                            |
-| 10.25 | Antonella Palmese                                  | TBA                                                        |
-| 11.01 |                                                    |                                                            |
-| 11.08 | Minfang Yeh (BNL)                                  |                                                            |
+| 10.25 | Antonella Palmese (Fermilab)                       | TBA                                                        |
+| 11.01 | Elisabeth A.C. Mills (Brandeis)                    | TBA                                                        |
+| 11.08 | Minfang Yeh (BNL)                                  | TBA                                                        |
 | 11.15 | Felix Kling (UC Irvine)                            | TBA                                                        |
 | 11.22 | ---                                                | _Thanksgiving_                                             |
 | 11.29 | Scott Hertel (UMass/Amherst)                       | TBA                                                        |
