@@ -12,7 +12,7 @@
 | 09.13 | Lisa Barsotti (MIT)                                | The LIGO instruments towards the next Observing Run and beyond |
 | 09.20 | ---                                                | _Marcelle & Bjoern travel_                                 |
 | 09.27 | Matthew Szydagis (University at Albany)            | The Snowball Chamber: neutron-induced nucleation in supercooled water |
-| 10.03&#42; | Ian dell'Antonio (Brown University)           | TBA                                                        |
+| 10.03&#42; | Ian dell'Antonio (Brown University)           | Preparing for Dark Energy measurements with LSST           |
 | 10.11 | Tom McClintock (BNL)                               | TBA                                                        |
 | 10.18 |                                                    |                                                            |
 | 10.25 | Antonella Palmese                                  | TBA                                                        |
