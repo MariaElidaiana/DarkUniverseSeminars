@@ -7,16 +7,16 @@
 
 | Date  | Speaker                                            | Title                                                      |
 |-------|:--------------------------------------------------:|----------------------------------------------------------- | 
-| 08.30 | ---                     |No seminar                |
+| 08.30 | ---                                                | No seminar                                                 |
 | 09.06 | Philipp Roloff (CERN)                              | Future accelarators and doing physics with them            |
 | 09.13 | Lisa Barsotti (MIT)                                | The LIGO instruments towards the next Observing Run and beyond |
 | 09.20 | ---                                                | _Marcelle & Bjoern travel_                                 |
 | 09.27 | Matthew Szydagis (University at Albany)            | The Snowball Chamber: neutron-induced nucleation in supercooled water |
 | 10.03&#42; | Ian dell'Antonio (Brown University)           | Preparing for Dark Energy measurements with LSST           |
-| 10.11 | Tom McClintock (BNL)                               | TBA                                                        |
-| 10.18 |                                                    |                                                            |
-| 10.25 | Antonella Palmese (Fermilab)                       | TBA                                                        |
-| 11.01 | Elisabeth A.C. Mills (Brandeis)                    | TBA                                                        |
+| 10.11 | Tom McClintock (BNL)                               | Galaxy Clusters in the Dark Energy Survey                  |
+| 10.18 | ---                                                | No seminar                                                 |
+| 10.25 | Antonella Palmese (Fermilab)                       | Gravitational wave astrophysics and cosmology with DES galaxies|
+| 11.01 | Elisabeth A.C. Mills (Brandeis)                    | Journey to the center of the Galaxy: following gas accretion from hundreds of parsecs to the black hole |
 | 11.08 | Minfang Yeh (BNL)                                  | TBA                                                        |
 | 11.15 | Felix Kling (UC Irvine)                            | TBA                                                        |
 | 11.22 | ---                                                | _Thanksgiving_                                             |
