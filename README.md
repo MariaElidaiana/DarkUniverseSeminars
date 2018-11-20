@@ -17,8 +17,8 @@
 | 10.18 | ---                                                | No seminar                                                 |
 | 10.25 | Antonella Palmese (Fermilab)                       | Gravitational wave astrophysics and cosmology with DES galaxies|
 | 11.01 | Elisabeth A.C. Mills (Brandeis)                    | Journey to the center of the Galaxy: following gas accretion from hundreds of parsecs to the black hole |
-| 11.08 | Minfang Yeh (BNL)                                  | TBA                                                        |
-| 11.15 | Felix Kling (UC Irvine)                            | TBA                                                        |
+| 11.08 | Minfang Yeh (BNL)                                  | Scintillator Detector for Neutrino Physics                 |
+| 11.15 | Felix Kling (UC Irvine)                            | FASER: ForwArd Search ExpeRiment at the LHC                |
 | 11.22 | ---                                                | _Thanksgiving_                                             |
 | 11.29 | Scott Hertel (UMass/Amherst)                       | TBA                                                        |
 | 12.06 | Nicholas Koehler (CERN)                            | TBA                                                        |
