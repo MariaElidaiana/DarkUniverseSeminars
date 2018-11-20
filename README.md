@@ -21,7 +21,7 @@
 | 11.15 | Felix Kling (UC Irvine)                            | TBA                                                        |
 | 11.22 | ---                                                | _Thanksgiving_                                             |
 | 11.29 | Scott Hertel (UMass/Amherst)                       | TBA                                                        |
-| 12.06 | ---                                                | _DES collaboration meeting_                                |
+| 12.06 | Nicholas Koehler (CERN)                            | TBA                                                        |
 
 
 &#42;In a different day, Wednesday. 
