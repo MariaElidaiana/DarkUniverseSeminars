@@ -1,6 +1,28 @@
 # Dark Universe Seminars
  Repository for Brandeis Dark Universe Seminars schedule 
 
+# Schedule 2019 - Thursdays 4 pm.
+
+## Spring term
+
+| Date  | Speaker                                            | Title                                                      |
+|-------|:--------------------------------------------------:|----------------------------------------------------------- | 
+| 02.07 | Mark Vogelsberger (MIT)                            | TBD                                                        |
+| 02.14 | Jesse Thaler (MIT)                                 | TBD                                                        |
+| 02.21 | ---                                                | _Midterm recess_                                           |
+| 02.28 | Johann Brehmer (NYU)                               | TBD                                                        |
+| 03.07 | Rebecca Lane (MIT)                                 | TBD                                                        |
+| 03.14 | Emmet Golden-Marx (Boston University)              | TBD                                                        |                           
+| 03.21 | Laura Newburgh (Yale)                              | TBD                                                        |
+| 03.28 | Jia Liu (Princeton)                                | TBD                                                        |
+| 04.04 | TBD                                                | TBD                                                        |
+| 04.11 | TBD                                                | TBD                                                        |
+| 04.18 | ---                                                | _APS April Meeting_                                        |
+| 04.25 | ---                                                | _Passover/Midterm recess_                                  |
+| 05.02 | Kazunori Akiyama (Haystack Obervatory)             | TBD                                                        |
+| 05.09 | ---                                                | _Exams_ 
+
+
 # Schedule 2018 - Thursdays 4 pm.
 
 ## Fall term
