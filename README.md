@@ -16,7 +16,7 @@
 | 03.21 | Laura Newburgh (Yale)                              | TBD                                                        |
 | 03.28 | Jia Liu (Princeton)                                | TBD                                                        |
 | 04.04 | TBD                                                | TBD                                                        |
-| 04.11 | TBD                                                | TBD                                                        |
+| 04.11 | Taritree Wongjirad (Tufts)                         | TBD                                                        |
 | 04.18 | ---                                                | _APS April Meeting_                                        |
 | 04.25 | ---                                                | _Passover/Midterm recess_                                  |
 | 05.02 | Kazunori Akiyama (Haystack Obervatory)             | TBD                                                        |
