@@ -7,10 +7,10 @@
 
 | Date  | Speaker                                            | Title                                                      |
 |-------|:--------------------------------------------------:|----------------------------------------------------------- | 
-| 02.07 | Mark Vogelsberger (MIT)                            | TBD                                                        |
-| 02.14 | Jesse Thaler (MIT)                                 | TBD                                                        |
+| 02.07 | Mark Vogelsberger (MIT)                            |Simulating Galaxy Formation: Illustris, IllustrisTNG and beyond |
+| 02.14 | Jesse Thaler (MIT)                                 | Collision Course: Particle Physics as a Machine Learning Testbed |
 | 02.21 | ---                                                | _Midterm recess_                                           |
-| 02.28 | Johann Brehmer (NYU)                               | TBD                                                        |
+| 02.28 | Johann Brehmer (NYU)                               | Combining simulations, physics understanding, and machine learning for better measurements |
 | 03.07 | Rebecca Lane (MIT)                                 | TBD                                                        |
 | 03.14 | Emmet Golden-Marx (Boston University)              | TBD                                                        |                           
 | 03.21 | Laura Newburgh (Yale)                              | TBD                                                        |
