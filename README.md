@@ -42,8 +42,8 @@
 | 11.08 | Minfang Yeh (BNL)                                  | Scintillator Detector for Neutrino Physics                 |
 | 11.15 | Felix Kling (UC Irvine)                            | FASER: ForwArd Search ExpeRiment at the LHC                |
 | 11.22 | ---                                                | _Thanksgiving_                                             |
-| 11.29 | Scott Hertel (UMass/Amherst)                       | TBA                                                        |
-| 12.06 | Nicholas Koehler (CERN)                            | TBA                                                        |
+| 11.29 | Scott Hertel (UMass/Amherst)                       | The Dark Matter Searches Enters a New Regime |
+| 12.06 | Nicholas Koehler (CERN)                            | Searches for the Supersymmetric Partner of the Top Quark, Dark Matter and Dark Energy at the ATLAS experiment |
 
 
 &#42;In a different day, Wednesday. 
