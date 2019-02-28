@@ -11,7 +11,7 @@
 | 02.14 | Jesse Thaler (MIT)                                 | Collision Course: Particle Physics as a Machine Learning Testbed |
 | 02.21 | ---                                                | _Midterm recess_                                           |
 | 02.28 | Johann Brehmer (NYU)                               | Combining Simulations, Physics Understanding, and Machine Learning for Better Measurements |
-| 03.07 | Rebecca Lane (MIT)                                 | TBD                                                        |
+| 03.07 | Rebecca Lane (MIT)                                 | Dark Matter Strikes Back at the Galactic Center |
 | 03.14 | Emmet Golden-Marx (Boston University)              | Bent Lobes and Red Sequences: The Study of High-z Galaxy Clusters in the Clusters Occupied by Bent Radio AGN (COBRA) Survey |                           
 | 03.21 | Laura Newburgh (Yale)                              | TBD                                                        |
 | 03.28 | Jia Liu (Princeton)                                | TBD                                                        |
