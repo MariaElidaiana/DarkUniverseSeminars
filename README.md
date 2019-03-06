@@ -13,7 +13,7 @@
 | 02.28 | Johann Brehmer (NYU)                               | Combining Simulations, Physics Understanding, and Machine Learning for Better Measurements |
 | 03.07 | Rebecca Lane (MIT)                                 | Dark Matter Strikes Back at the Galactic Center |
 | 03.14 | Emmet Golden-Marx (Boston University)              | Bent Lobes and Red Sequences: The Study of High-z Galaxy Clusters in the Clusters Occupied by Bent Radio AGN (COBRA) Survey |                           
-| 03.21 | Laura Newburgh (Yale)                              | TBD                                                        |
+| 03.21 | Laura Newburgh (Yale)                              | New Probes of Old Structure: Cosmology with 21cm Intensity Mapping and the Cosmic Microwave Background |
 | 03.28 | Jia Liu (Princeton)                                | TBD                                                        |
 | 04.04 | TBD                                                | TBD                                                        |
 | 04.11 | Taritree Wongjirad (Tufts)                         | TBD                                                        |
