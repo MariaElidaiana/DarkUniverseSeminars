@@ -15,8 +15,8 @@
 | 03.14 | Emmet Golden-Marx (Boston University)              | Bent Lobes and Red Sequences: The Study of High-z Galaxy Clusters in the Clusters Occupied by Bent Radio AGN (COBRA) Survey |                           
 | 03.21 | Laura Newburgh (Yale)                              | New Probes of Old Structure: Cosmology with 21cm Intensity Mapping and the Cosmic Microwave Background |
 | 03.28 | Jia Liu (Princeton)                                | Cosmology with massive neutrinos                           |
-| 04.04 | TBD                                                | TBD                                                        |
-| 04.11 | Taritree Wongjirad (Tufts)                         | TBD                                                        |
+| 04.04 | ---                                                | ---                                                        |
+| 04.11 | Taritree Wongjirad (Tufts)                         | Applying Convolutional Neural Networks to MicroBooNE       |
 | 04.18 | ---                                                | _APS April Meeting_                                        |
 | 04.25 | ---                                                | _Passover/Midterm recess_                                  |
 | 05.02 | Kazunori Akiyama (Haystack Obervatory)             | TBD                                                        |
