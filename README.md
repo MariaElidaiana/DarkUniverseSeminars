@@ -19,7 +19,7 @@
 | 04.11 | Taritree Wongjirad (Tufts)                         | Applying Convolutional Neural Networks to MicroBooNE       |
 | 04.18 | ---                                                | _APS April Meeting_                                        |
 | 04.25 | ---                                                | _Passover/Midterm recess_                                  |
-| 05.02 | Kazunori Akiyama (Haystack Obervatory)             | TBD                                                        |
+| 05.02 | Kazunori Akiyama (Haystack Obervatory)             | First Images of a Black Hole                               |
 | 05.09 | ---                                                | _Exams_ 
 
 
