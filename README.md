@@ -22,6 +22,8 @@
 | 05.02 | Kazunori Akiyama (Haystack Obervatory)             | First Images of a Black Hole                               |
 | 05.09 | ---                                                | _Exams_ 
 
+**Female speakers: ~33%**
+
 
 # Schedule 2018 - Thursdays 4 pm.
 
@@ -48,6 +50,8 @@
 
 &#42;In a different day, Wednesday. 
 
+**Female speakers: ~27%**
+
 
 ## Spring term
 
@@ -65,5 +69,5 @@
 | 04.19 | ---                                                | _LZ collaboration week_                                    |
 | 04.25 | Aran Garcia-Bellido (Rochester)                    | Top Gear at LHC                                            |
 
-
+**Female speakers: ~28%**
 
